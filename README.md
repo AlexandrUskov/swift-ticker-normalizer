@@ -43,7 +43,7 @@ break in naive implementations. They're all covered by tests.
 ## Install (Swift Package Manager)
 
 ```swift
-.package(url: "https://github.com/AlexandrUskov/swift-ticker-normalizer.git", from: "1.0.0")
+.package(url: "https://github.com/OleksandrUskov/swift-ticker-normalizer.git", from: "1.0.0")
 ```
 
 ## Test
